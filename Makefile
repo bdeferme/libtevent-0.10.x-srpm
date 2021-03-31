@@ -6,9 +6,9 @@
 LANG=C
 
 # Fedora includes 0.9.39
-MOCKS+=samba4repo-f33-x86_64
+#MOCKS+=samba4repo-f33-x86_64
 # EL8 discarded python3-[package]-devel packages, cannot be used
-MOCKS+=samba4repo-8-x86_64
+#MOCKS+=samba4repo-8-x86_64
 MOCKS+=samba4repo-7-x86_64
 #MOCKS+=samba4repo-amz2-x86_64
 
